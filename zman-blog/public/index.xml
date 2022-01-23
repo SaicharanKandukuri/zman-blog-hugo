@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZMAN-BLOG</title>
+    <link>http://zman-blog.github.io/</link>
+    <description>Recent content on ZMAN-BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://zman-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://zman-blog.github.io/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zman-blog.github.io/posts/test/</guid>
+      <description>So this is a test site for my new blog
+here is a crazy thing idk what to write for now
+here is a image for now  My github metrics
+ A Hello-World in c++ #include &amp;lt;iostream&amp;gt; int main() { # cout is avalible in std namespace 	std::cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; } A pic the describes me ( Anime charecter ) </description>
+    </item>
+    
+  </channel>
+</rss>
